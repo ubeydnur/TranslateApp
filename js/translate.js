@@ -1,6 +1,6 @@
 class Translate{
     constructor(word,language){
-        this.apikey ='trnsl.1.1.20210518T180808Z.0c12d660fe2cc221.f9110505d20e2af388d1a053b4be3c8e33694d88'
+        this.apikey = //Yandex API key
         this.word = word
         this.language = language
         
